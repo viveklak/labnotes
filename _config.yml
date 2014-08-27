@@ -1,0 +1,11 @@
+# Site settings
+title: Vivek's LabNotes
+email: vivek -at- lakshmanan.ca
+description: Repository of random notes and findings.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: viveklak
+github_username:  viveklak
+
+# Build settings
+markdown: kramdown
